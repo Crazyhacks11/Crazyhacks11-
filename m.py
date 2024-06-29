@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 
-#By @crazyhacks
+#By @crazyhacks309
 
 
 
@@ -498,7 +498,7 @@ def handle_bgmi(message):
 
     else:
 
-        response = "You Are Not Authorized To Use This Command.\nBy @crazyhacks"
+        response = "You Are Not Authorized To Use This Command.\nBy @crazyhacks309"
 
 
 
@@ -572,7 +572,7 @@ def show_help(message):
 
  /admincmd : Shows All Admin Commands.
 
- By  @crazyhacks
+ By  @crazyhacks309
 
 '''
 
@@ -602,7 +602,7 @@ def welcome_start(message):
 
     user_name = message.from_user.first_name
 
-    response = f"Welcome to Your Home, {user_name}! Feel Free to Explore.\nTry To Run This Command : /help\nWelcome To The World's Best Ddos Bot\nBy @crazyhacks"
+    response = f"Welcome to Your Home, {user_name}! Feel Free to Explore.\nTry To Run This Command : /help\nWelcome To The World's Best Ddos Bot\nBy @crazyhacks309"
 
     bot.reply_to(message, response)
 
@@ -626,7 +626,7 @@ def welcome_rules(message):
 
 3. We Daily Checks The Logs So Follow these rules to avoid Ban!!
 
-By @crazyhacks'''
+By @crazyhacks309'''
 
     bot.reply_to(message, response)
 
@@ -661,7 +661,7 @@ Week-->400 Rs
 Month-->850 Rs
 
 full season ---→1500
-By  @crazyhacks
+By  @crazyhacks309
 
 '''
 
@@ -691,7 +691,7 @@ def welcome_plan(message):
 
 /clearlogs : Clear The Logs File.
 
-By  @crazyhacks
+By  @crazyhacks309
 
 '''
 
@@ -753,4 +753,4 @@ def broadcast_message(message):
 
 bot.polling()
 
-#By @crazyhacks  @crazyhacks
+#By @crazyhacks309  @crazyhacks309
